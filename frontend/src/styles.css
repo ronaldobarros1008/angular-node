@@ -2,3 +2,16 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red2 {
+    color: rgb(227, 94, 107);
+}
+
+.red {
+    /*color: rgb(227, 94, 107);*/
+    color: red;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
