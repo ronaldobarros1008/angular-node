@@ -34,6 +34,11 @@
       "name": "Geladeira",
       "price": "1890.44",
       "id": 7
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "2.50",
+      "id": 8
     }
   ]
 }
